@@ -1,0 +1,201 @@
+{
+  "reason": "compiler-artifact",
+  "package_id": "registry+https://github.com/rust-lang/crates.io-index#pico-args@0.5.0",
+  "manifest_path": "/home/catalin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pico-args-0.5.0/Cargo.toml",
+  "target": {
+    "kind": [
+      "lib"
+    ],
+    "crate_types": [
+      "lib"
+    ],
+    "name": "pico_args",
+    "src_path": "/home/catalin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pico-args-0.5.0/src/lib.rs",
+    "edition": "2018",
+    "doc": true,
+    "doctest": true,
+    "test": true
+  },
+  "profile": {
+    "opt_level": "0",
+    "debuginfo": 2,
+    "debug_assertions": true,
+    "overflow_checks": true,
+    "test": false
+  },
+  "features": [
+    "default"
+  ],
+  "filenames": [
+    "/home/catalin/repos/advent-of-code-2024/target/debug/deps/libpico_args-cff5568e57e50f97.rlib",
+    "/home/catalin/repos/advent-of-code-2024/target/debug/deps/libpico_args-cff5568e57e50f97.rmeta"
+  ],
+  "executable": null,
+  "fresh": true
+}
+{
+  "reason": "compiler-artifact",
+  "package_id": "registry+https://github.com/rust-lang/crates.io-index#tinyjson@2.5.1",
+  "manifest_path": "/home/catalin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyjson-2.5.1/Cargo.toml",
+  "target": {
+    "kind": [
+      "lib"
+    ],
+    "crate_types": [
+      "lib"
+    ],
+    "name": "tinyjson",
+    "src_path": "/home/catalin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyjson-2.5.1/src/lib.rs",
+    "edition": "2018",
+    "doc": true,
+    "doctest": true,
+    "test": true
+  },
+  "profile": {
+    "opt_level": "0",
+    "debuginfo": 2,
+    "debug_assertions": true,
+    "overflow_checks": true,
+    "test": false
+  },
+  "features": [],
+  "filenames": [
+    "/home/catalin/repos/advent-of-code-2024/target/debug/deps/libtinyjson-bacd6d52fb10a482.rlib",
+    "/home/catalin/repos/advent-of-code-2024/target/debug/deps/libtinyjson-bacd6d52fb10a482.rmeta"
+  ],
+  "executable": null,
+  "fresh": true
+}
+{
+  "reason": "compiler-artifact",
+  "package_id": "path+file:///home/catalin/repos/advent-of-code-2024#advent_of_code@0.11.0",
+  "manifest_path": "/home/catalin/repos/advent-of-code-2024/Cargo.toml",
+  "target": {
+    "kind": [
+      "lib"
+    ],
+    "crate_types": [
+      "lib"
+    ],
+    "name": "advent_of_code",
+    "src_path": "/home/catalin/repos/advent-of-code-2024/src/lib.rs",
+    "edition": "2021",
+    "doc": true,
+    "doctest": false,
+    "test": true
+  },
+  "profile": {
+    "opt_level": "0",
+    "debuginfo": 2,
+    "debug_assertions": true,
+    "overflow_checks": true,
+    "test": false
+  },
+  "features": [],
+  "filenames": [
+    "/home/catalin/repos/advent-of-code-2024/target/debug/libadvent_of_code.rlib",
+    "/home/catalin/repos/advent-of-code-2024/target/debug/deps/libadvent_of_code-e661bfd70f18a1ab.rmeta"
+  ],
+  "executable": null,
+  "fresh": true
+}
+{
+  "reason": "compiler-artifact",
+  "package_id": "path+file:///home/catalin/repos/advent-of-code-2024#advent_of_code@0.11.0",
+  "manifest_path": "/home/catalin/repos/advent-of-code-2024/Cargo.toml",
+  "target": {
+    "kind": [
+      "bin"
+    ],
+    "crate_types": [
+      "bin"
+    ],
+    "name": "01",
+    "src_path": "/home/catalin/repos/advent-of-code-2024/src/bin/01.rs",
+    "edition": "2021",
+    "doc": true,
+    "doctest": false,
+    "test": true
+  },
+  "profile": {
+    "opt_level": "0",
+    "debuginfo": 2,
+    "debug_assertions": true,
+    "overflow_checks": true,
+    "test": false
+  },
+  "features": [],
+  "filenames": [
+    "/home/catalin/repos/advent-of-code-2024/target/debug/01"
+  ],
+  "executable": "/home/catalin/repos/advent-of-code-2024/target/debug/01",
+  "fresh": true
+}
+{
+  "reason": "compiler-artifact",
+  "package_id": "path+file:///home/catalin/repos/advent-of-code-2024#advent_of_code@0.11.0",
+  "manifest_path": "/home/catalin/repos/advent-of-code-2024/Cargo.toml",
+  "target": {
+    "kind": [
+      "bin"
+    ],
+    "crate_types": [
+      "bin"
+    ],
+    "name": "advent_of_code",
+    "src_path": "/home/catalin/repos/advent-of-code-2024/src/main.rs",
+    "edition": "2021",
+    "doc": true,
+    "doctest": false,
+    "test": true
+  },
+  "profile": {
+    "opt_level": "0",
+    "debuginfo": 2,
+    "debug_assertions": true,
+    "overflow_checks": true,
+    "test": false
+  },
+  "features": [],
+  "filenames": [
+    "/home/catalin/repos/advent-of-code-2024/target/debug/advent_of_code"
+  ],
+  "executable": "/home/catalin/repos/advent-of-code-2024/target/debug/advent_of_code",
+  "fresh": true
+}
+{
+  "reason": "compiler-artifact",
+  "package_id": "path+file:///home/catalin/repos/advent-of-code-2024#advent_of_code@0.11.0",
+  "manifest_path": "/home/catalin/repos/advent-of-code-2024/Cargo.toml",
+  "target": {
+    "kind": [
+      "bin"
+    ],
+    "crate_types": [
+      "bin"
+    ],
+    "name": "02",
+    "src_path": "/home/catalin/repos/advent-of-code-2024/src/bin/02.rs",
+    "edition": "2021",
+    "doc": true,
+    "doctest": false,
+    "test": true
+  },
+  "profile": {
+    "opt_level": "0",
+    "debuginfo": 2,
+    "debug_assertions": true,
+    "overflow_checks": true,
+    "test": false
+  },
+  "features": [],
+  "filenames": [
+    "/home/catalin/repos/advent-of-code-2024/target/debug/02"
+  ],
+  "executable": "/home/catalin/repos/advent-of-code-2024/target/debug/02",
+  "fresh": true
+}
+{
+  "reason": "build-finished",
+  "success": true
+}
